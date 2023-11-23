@@ -1,6 +1,10 @@
 # Traefik History
 
-![logo](./img/traefik.logo.png)
+<p align="center">
+    <picture>
+    <img alt="logo" title="logo" width="400" src="./img/traefik.logo.png">
+    </picture>
+</p>
 
 <!--
 ![timeline](./img/traefik-history.png)
@@ -111,7 +115,11 @@ gantt
 
 ## v1.0, reblochon
 
-![v1.0-reblochon](./img/traefik-v1.0-reblochon.png)
+<p align="center">
+    <picture>
+    <img alt="v1.0-reblochon" title="v1.0-reblochon" width="400" src="./img/traefik-v1.0-reblochon.png">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -145,7 +153,11 @@ gantt
 
 ## v1.1, camembert
 
-![v1.1-camembert](./img/traefik-v1.1-camembert.png)
+<p align="center">
+    <picture>
+    <img alt="v1.1-camembert" title="v1.1-camembert" width="400" src="./img/traefik-v1.1-camembert.png">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -175,7 +187,11 @@ gantt
 
 ## v1.2, morbier
 
-![v1.2-morbier](./img/traefik-v1.2-morbier.png)
+<p align="center">
+    <picture>
+    <img alt="v1.2-morbier" title="v1.2-morbier" width="400" src="./img/traefik-v1.2-morbier.png">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -206,7 +222,11 @@ Dates:
 
 ## v1.3, raclette
 
-![v1.3-raclette](./img/traefik-v1.3-raclette.svg)
+<p align="center">
+    <picture>
+    <img alt="v1.3-raclette" title="v1.3-raclette" width="400" src="./img/traefik-v1.3-raclette.svg">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -241,7 +261,11 @@ gantt
 
 ## v1.4, roquefort
 
-![v1.4-roquefort](./img/traefik-v1.4-roquefort.svg)
+<p align="center">
+    <picture>
+    <img alt="v1.4-roquefort" title="v1.4-roquefort" width="400" src="./img/traefik-v1.4-roquefort.svg">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -276,7 +300,11 @@ gantt
 
 ## v1.5, cancoillotte
 
-![v1.5-cancoillotte](./img/traefik-v1.5-cancoillotte.svg)
+<p align="center">
+    <picture>
+    <img alt="v1.5-cancoillotte" title="v1.5-cancoillotte" width="400" src="./img/traefik-v1.5-cancoillotte.svg">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -309,7 +337,11 @@ gantt
 
 ## v1.6, tetedemoine
 
-![v1.6-tete-de-moine](./img/traefik-v1.6-tete-de-moine.svg)
+<p align="center">
+    <picture>
+    <img alt="v1.6-tete-de-moine" title="v1.6-tete-de-moine" width="400" src="./img/traefik-v1.6-tete-de-moine.svg">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -345,7 +377,11 @@ gantt
 
 ## v1.7, maroilles
 
-![v1.7-maroilles](./img/traefik-v1.7-maroilles.png)
+<p align="center">
+    <picture>
+    <img alt="v1.7-maroilles" title="v1.7-maroilles" width="400" src="./img/traefik-v1.7-maroilles.png">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -415,7 +451,11 @@ gantt
 
 ## v2.0, montdor
 
-![v2.0-montdor](./img/traefik-v2.0-montdor.png)
+<p align="center">
+    <picture>
+    <img alt="v2.0-montdor" title="v2.0-montdor" width="400" src="./img/traefik-v2.0-montdor.png">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -459,7 +499,11 @@ gantt
 
 ## v2.1, cantal
 
-![v2.1-cantal](./img/traefik-v2.1-cantal.png)
+<p align="center">
+    <picture>
+    <img alt="v2.1-cantal" title="v2.1-cantal" width="400" src="./img/traefik-v2.1-cantal.png">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -495,7 +539,11 @@ gantt
 
 ## v2.2, chevrotin
 
-![v2.2-chevrotin](./img/traefik-v2.2-chevrotin.png)
+<p align="center">
+    <picture>
+    <img alt="v2.2-chevrotin" title="v2.2-chevrotin" width="400" src="./img/traefik-v2.2-chevrotin.png">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -533,7 +581,11 @@ gantt
 
 ## v2.3, picodon
 
-![v2.3-picodon](./img/traefik-v2.3-picodon.jpg)
+<p align="center">
+    <picture>
+    <img alt="v2.3-picodon" title="v2.3-picodon" width="400" src="./img/traefik-v2.3-picodon.jpg">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -571,7 +623,11 @@ gantt
 
 ## v2.4, livarot
 
-![v2.4-livarot](./img/traefik-v2.4-livarot.png)
+<p align="center">
+    <picture>
+    <img alt="v2.4-livarot" title="v2.4-livarot" width="400" src="./img/traefik-v2.4-livarot.png">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -611,7 +667,11 @@ gantt
 
 ## v2.5, brie
 
-![v2.5-brie](./img/traefik-v2.5-brie.jpg)
+<p align="center">
+    <picture>
+    <img alt="v2.5-brie" title="v2.5-brie" width="400" src="./img/traefik-v2.5-brie.jpg">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -648,7 +708,11 @@ gantt
 
 ## v2.6, rocamadour
 
-![v2.6-rocamadour](./img/traefik-v2.6-rocamadour.png)
+<p align="center">
+    <picture>
+    <img alt="v2.6-rocamadour" title="v2.6-rocamadour" width="400" src="./img/traefik-v2.6-rocamadour.png">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -682,7 +746,11 @@ gantt
 
 ## v2.7, epoisses
 
-![v2.7-epoisses](./img/traefik-v2.7-epoisses.png)
+<p align="center">
+    <picture>
+    <img alt="v2.7-epoisses" title="v2.7-epoisses" width="400" src="./img/traefik-v2.7-epoisses.png">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -711,7 +779,11 @@ gantt
 
 ## v2.8, vacherin
 
-![v2.8-vacherin](./img/traefik-v2.8-vacherin.png)
+<p align="center">
+    <picture>
+    <img alt="v2.8-vacherin" title="v2.8-vacherin" width="400" src="./img/traefik-v2.8-vacherin.png">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -745,7 +817,11 @@ gantt
 
 ## v2.9, banon
 
-![v2.9-banon](./img/traefik-v29-banon.jpg)
+<p align="center">
+    <picture>
+    <img alt="v2.9-banon" title="v2.9-banon" width="400" src="./img/traefik-v29-banon.jpg">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -783,7 +859,11 @@ gantt
 
 ## v2.10, saintmarcelin
 
-![v2.10-saintmarcelin](./img/traefik-v2.10-saintmarcelin.jpg)
+<p align="center">
+    <picture>
+    <img alt="v2.10-saintmarcelin" title="v2.10-saintmarcelin" width="400" src="./img/traefik-v2.10-saintmarcelin.jpg">
+    </picture>
+</p>
 
 ```mermaid
 gantt
