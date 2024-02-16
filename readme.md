@@ -880,17 +880,50 @@ gantt
         v2.10.2: milestone, 2023-06-19 12:00:06, 0d
         v2.10.3: milestone, 2023-06-19 18:14:30, 0d
         v2.10.4: milestone, 2023-07-24 16:44:05, 0d
+        v2.10.5: milestone, 2023-10-11 15:50:05, 0d
+        v2.10.6: milestone, 2023-11-28 15:46:10, 0d
+        v2.10.7: milestone, 2023-12-06 16:42:09, 0d
 
 ```
 
 | version     | date                      | fix |
 |-------------|---------------------------|-----|
 | v2.10.0-rc1 | 2022-06-13 17:26:12 +0200 | 2   |
-| v2.10.0     | 2022-06-29 17:38:37 +0200 | 3+  |
+| v2.10.0     | 2022-06-29 17:38:37 +0200 | 7   |
+| v2.10.7     | 2023-12-06 16:42:09 +0100 |     |
 
 [CHANGELOG](https://github.com/containous/traefik/blob/v2.10/CHANGELOG.md)
 
+## v2.11, mimolette
+
+```mermaid
+gantt
+    title Timeline
+    todayMarker off
+    tickInterval 1month
+    axisFormat %Y-%m
+    dateFormat YYYY-MM-DD HH:mm:ss
+    section v2.10
+        v2.11.0-rc1: milestone, 2024-01-03 11:12:05, 0d
+        v2.11.0-rc2: milestone, 2024-01-24 15:20:09, 0d
+        v2.11.0: crit, milestone, 2024-02-12 16:14:04, 0d
+
+```
+
+| version     | date                      | fix |
+|-------------|---------------------------|-----|
+| v2.11.0-rc1 | 2024-01-03 11:12:05 +0100 | 2   |
+| v2.11.0     | 2024-02-12 16:14:04 +0100 |     |
+
+[CHANGELOG](https://github.com/containous/traefik/blob/v2.11/CHANGELOG.md)
+
 ## v3.0, beaufort
+
+<p align="center">
+    <picture>
+    <img alt="v2.10-saintmarcelin" title="v3.0-beaufort" width="400" src="./img/traefik-v3.0-beaufort.png">
+    </picture>
+</p>
 
 ```mermaid
 gantt
@@ -903,8 +936,12 @@ gantt
         v3.0.0-beta1: milestone, 2022-12-05 16:58:04, 0d
         v3.0.0-beta2: milestone, 2022-12-07 17:26:04, 0d
         v3.0.0-beta3: milestone, 2023-06-22 01:18:05, 0d
+        v3.0.0-beta4: milestone, 2023-10-12 09:48:05, 0d
+        v3.0.0-beta5: milestone, 2023-11-29 16:08:05, 0d
+        v3.0.0-rc1: milestone, 2024-02-13 14:38:03, 0d
 ```
 
 | version      | date                      | fix |
 |--------------|---------------------------|-----|
-| v3.0.0-beta1 | 2022-12-05 16:58:04 +0100 | 3+  |
+| v3.0.0-beta1 | 2022-12-05 16:58:04 +0100 | 5+  |
+| v3.0.0-rc1   | 2024-02-13 14:38:03 +0100 |     |
