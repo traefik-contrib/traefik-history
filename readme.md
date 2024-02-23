@@ -95,6 +95,7 @@ gantt
 - [v2.8](#v28-vacherin)
 - [v2.9](#v29-banon)
 - [v2.10](#v210-saintmarcelin)
+- [v2.11](#v211-mimolette)
 - [v3.0](#v30-beaufort)
 
 ## First Commit
