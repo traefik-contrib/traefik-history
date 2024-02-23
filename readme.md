@@ -821,7 +821,7 @@ gantt
 
 <p align="center">
     <picture>
-    <img alt="v2.9-banon" title="v2.9-banon" width="400" src="./img/traefik-v29-banon.jpg">
+    <img alt="v2.9-banon" title="v2.9-banon" width="400" src="img/traefik-v2.9-banon.jpg">
     </picture>
 </p>
 
@@ -897,6 +897,12 @@ gantt
 [CHANGELOG](https://github.com/containous/traefik/blob/v2.10/CHANGELOG.md)
 
 ## v2.11, mimolette
+
+<p align="center">
+    <picture>
+    <img alt="v2.11-mimolette" title="v2.11-mimolette" width="400" src="img/traefik-v2.11-mimolette.png">
+    </picture>
+</p>
 
 ```mermaid
 gantt
