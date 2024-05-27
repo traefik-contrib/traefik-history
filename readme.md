@@ -958,7 +958,7 @@ gantt
         v3.0.0-rc4: milestone, 2024-04-10 16:34:03, 0d
         v3.0.0-rc5: milestone, 2024-04-11 18:24:03, 0d
         v3.0.0: crit, milestone, 2024-04-29 16:06:04, 0d
-        v3.0.1: milestone, 2024-04-10 11:52:03, 0d
+        v3.0.1: milestone, 2024-05-22 15:08:04, 0d
 ```
 
 | version      | date                      | fix |
