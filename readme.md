@@ -63,12 +63,18 @@ gantt
         v2.9.0: crit, milestone, v29, 2022-10-03 16:17:58, 0d
         v2.10: after v29, 2023-07-24 16:44:05
         v2.10.0: crit, milestone, v210, 2023-04-24 15:38:05, 0d
-        v2.11: after v210, 2024-05-27 00:00:00
+        v2.11: after v210, 2025-01-29 00:00:00
         v2.11.0: crit, milestone, v211, 2024-02-12 16:14:04, 0d
 
     section v3
-        v3.0: after v28, 2024-05-27 00:00:00
-        v3.0.0: crit, milestone, v30, 2024-04-29 16:06:04, 0d
+        v3.0: after v28, 2024-07-02 15:42:03
+        v3.0.0: crit, milestone, v30, 2022-12-05 16:58:04, 0d
+        v3.1: after v30, 2024-10-28 11:34:03
+        v3.1.0: crit, milestone, v31, 2024-07-15 16:38:04, 0d
+        v3.2: after v31, 2025-01-07 15:10:04
+        v3.2.0: crit, milestone, v32, 2025-01-07 15:10:04, 0d
+        v3.3: after v32, 2025-02-01 00:00:00
+        v3.3.0: crit, milestone, v33, 2025-01-06 12:04:04, 0d
 ```
 
 ## TOC
@@ -98,6 +104,9 @@ gantt
 - [v2.10](#v210-saintmarcelin)
 - [v2.11](#v211-mimolette)
 - [v3.0](#v30-beaufort)
+- [v3.1](#v31-comte)
+- [v3.2](#v32-munster)
+- [v3.3](#v33-saintnectaire)
 
 ## First Commit
 
@@ -935,7 +944,7 @@ gantt
 
 <p align="center">
     <picture>
-    <img alt="v2.10-saintmarcelin" title="v3.0-beaufort" width="400" src="./img/traefik-v3.0-beaufort.png">
+    <img alt="v3.0-beaufort" title="v3.0-beaufort" width="400" src="./img/traefik-v3.0-beaufort.png">
     </picture>
 </p>
 
@@ -959,11 +968,110 @@ gantt
         v3.0.0-rc5: milestone, 2024-04-11 18:24:03, 0d
         v3.0.0: crit, milestone, 2024-04-29 16:06:04, 0d
         v3.0.1: milestone, 2024-05-22 15:08:04, 0d
+        v3.0.2: milestone, 2024-06-10 16:34:04, 0d
+        v3.0.3: milestone, 2024-06-18 16:10:06, 0d
+        v3.0.4: milestone, 2024-07-02 15:42:03, 0d
 ```
 
 | version      | date                      | fix |
 |--------------|---------------------------|-----|
 | v3.0.0-beta1 | 2022-12-05 16:58:04 +0100 | 5   |
 | v3.0.0-rc1   | 2024-02-13 14:38:03 +0100 | 5   |
-| v3.0.0       | 2024-04-29 16:06:04 +0200 | 1   |
-| v3.0.1       | 2024-05-22 15:08:04 +0200 |     |
+| v3.0.0       | 2024-04-29 16:06:04 +0200 | 4   |
+| v3.0.4       | 2024-07-02 15:42:03 +0200 |     |
+
+## v3.1, comte
+
+<p align="center">
+    <picture>
+    <img alt="v3.1-comte" title="v3.1-comte" width="400" src="./img/traefik-v3.1-comte.jpg">
+    </picture>
+</p>
+
+```mermaid
+gantt
+    title Timeline
+    todayMarker off
+    tickInterval 1month
+    axisFormat %Y-%m
+    dateFormat YYYY-MM-DD HH:mm:ss
+    section v3.1
+        v3.1.0-rc1: milestone, 2024-06-27 16:28:03, 0d
+        v3.1.0-rc2: milestone, 2024-06-28 10:42:03, 0d
+        v3.1.0-rc3: milestone, 2024-07-02 17:18:03, 0d
+        v3.1.0: crit, milestone, 2024-07-15 16:38:04, 0d
+        v3.1.1: milestone, 2024-07-30 15:52:03, 0d
+        v3.1.2: milestone, 2024-08-06 15:34:03, 0d
+        v3.1.3: milestone, 2024-09-16 17:06:03, 0d
+        v3.1.4: milestone, 2024-09-19 15:44:04, 0d
+        v3.1.5: milestone, 2024-10-02 14:42:05, 0d
+        v3.1.6: milestone, 2024-10-09 15:54:05, 0d
+        v3.1.7: milestone, 2024-10-28 11:34:03, 0d
+```
+
+| version    | date                      | fix |
+|------------|---------------------------|-----|
+| v3.1.0-rc1 | 2024-06-27 16:28:03 +0200 | 3   |
+| v3.1.0     | 2024-07-15 16:38:04 +0200 | 7   |
+| v3.1.7     | 2024-10-28 11:34:03 +0100 |     |
+
+## v3.2, munster
+
+<p align="center">
+    <picture>
+    <img alt="v3.2-munster" title="v3.2-munster" width="400" src="./img/traefik-v3.2-munster.jpg">
+    </picture>
+</p>
+
+```mermaid
+gantt
+    title Timeline
+    todayMarker off
+    tickInterval 1month
+    axisFormat %Y-%m
+    dateFormat YYYY-MM-DD HH:mm:ss
+    section v3.2
+        v3.2.0-rc1: milestone, 2024-10-02 16:24:04, 0d
+        v3.2.0-rc2: milestone, 2024-10-09 17:16:04, 0d
+        v3.2.0: crit, milestone, 2024-10-28 15:46:04, 0d
+        v3.2.1: milestone, 2024-11-20 17:28:04, 0d
+        v3.2.2: milestone, 2024-12-10 15:04:04, 0d
+        v3.2.3: milestone, 2024-12-16 11:20:04, 0d
+        v3.2.4: milestone, 2025-01-06 11:04:04, 0d
+        v3.2.5: milestone, 2025-01-07 15:10:04, 0d
+```
+
+| version    | date                      | fix |
+|------------|---------------------------|-----|
+| v3.2.0-rc1 | 2024-10-02 16:24:04 +0200 | 2   |
+| v3.2.0     | 2024-10-28 15:46:04 +0100 | 5   |
+| v3.2.5     | 2025-01-07 15:10:04 +0100 |     |
+
+## v3.3, saintnectaire
+
+<p align="center">
+    <picture>
+    <img alt="v3.3-saintnectaire" title="v3.3-saintnectaire" width="400" src="./img/traefik-v3.3-saintnectaire.png">
+    </picture>
+</p>
+
+```mermaid
+gantt
+    title Timeline
+    todayMarker off
+    tickInterval 1month
+    axisFormat %Y-%m
+    dateFormat YYYY-MM-DD HH:mm:ss
+    section v3.3
+        v3.3.0-rc1: milestone, 2024-12-16 15:30:05, 0d
+        v3.3.0-rc2: milestone, 2024-12-20 11:52:04, 0d
+        v3.3.0: crit, milestone, 2025-01-06 12:04:04, 0d
+        v3.3.1: milestone, 2025-01-07 15:46:04, 0d
+        v3.3.2: milestone, 2025-01-14 16:46:04, 0d
+```
+
+| version    | date                      | fix |
+|------------|---------------------------|-----|
+| v3.3.0-rc1 | 2024-12-16 15:30:05 +0100 | 2   |
+| v3.3.0     | 2025-01-06 12:04:04 +0100 | 2+  |
+| v3.3.2     | 2025-01-14 16:46:04 +0100 |     |
